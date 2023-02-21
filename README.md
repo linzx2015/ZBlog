@@ -1,19 +1,3 @@
-扫码加微信（微信ID：**a_java_boy2**），备注V部落，进群讨论。
-
-![](https://user-images.githubusercontent.com/6023444/75459026-ba70d500-59b9-11ea-8cbd-3d5889f356c4.png)
-
-V 部落姊妹篇：[https://github.com/lenve/vhr](https://github.com/lenve/vhr)
-
-V部落是一个多用户博客管理平台，采用Vue+SpringBoot开发。  
-
-项目演示地址： [http://45.77.146.32:8081/index.html](http://45.77.146.32:8081/index.html)  
-
-## 英雄帖
-
->项目还有许多待改进的地方，欢迎小伙伴提交pr，我会将大家完成的工作展示在README中！
-
-# 项目效果图  
-
 ## 登陆页面
 
 ![登录](https://raw.githubusercontent.com/lenve/VBlog/master/doc/login.png)  
